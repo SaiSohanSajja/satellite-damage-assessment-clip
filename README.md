@@ -22,6 +22,9 @@ This project compares three independent pre/post image pairs from different sate
 | NOAA (Post-Helene vs Post-Milton) | 0.959 |
 | Sentinel-2 (Pre-Sep 2024 vs Post-Oct 2024) | 0.869 |
 
+<img width="1489" height="1481" alt="image" src="https://github.com/user-attachments/assets/ca499a56-094e-4bb3-8f0a-e36eef534924" />
+
+
 ## Key Findings & Limitations
 
 - **Sentinel-2** shows the lowest whole-image similarity (most apparent change), but patch-level analysis reveals this is largely driven by **cloud cover present in the pre-event image and absent in the post-event image**, not necessarily ground damage.
